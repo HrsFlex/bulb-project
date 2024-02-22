@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    
+}
+img{
+    height: 15%;
+    width: 30%;
+    margin: 5% 5% 5% 10%;
+    padding: 60px;
+    
+}
+/* img:hover {
+    content: url('onBulb.png');
+    height: 20%;
+    width: 30%;
+} */
+.btn-warning{
+    margin-left: 100px;
+    margin-right: 100px;
+}
