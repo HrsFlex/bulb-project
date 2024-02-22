@@ -6,10 +6,10 @@ body{
     
 }
 img{
-    height: auto;
-    width: auto;
-    margin: 5% 5% 5% 10%;
-    padding: 60px;
+    height: 780px;
+    width: 600px;
+    margin: 10%;
+    padding: 10%
     
 }
 /* img:hover {
